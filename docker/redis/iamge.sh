@@ -1,2 +1,2 @@
 #! /bin/bash
-docker pull redis
+sudo docker pull redis

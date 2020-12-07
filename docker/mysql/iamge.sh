@@ -1,2 +1,2 @@
 #! /bin/bash
-docker pull mysql
+sudo docker pull mysql
