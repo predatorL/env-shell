@@ -1,0 +1,5 @@
+.git
+.history
+# openconnect
+openconnect/config.*
+__pycache__
