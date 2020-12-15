@@ -4,5 +4,7 @@ import config
 import os
 import sys
 from string import Template
-a=Template('openconnect -u ${name} --passwd-on-stdin ${ip}')
+a=Template('sudo openconnect -u ${name} --passwd-on-stdin ${ip}')
+print(a.substitute(config.data))
+print(config.data)
 
