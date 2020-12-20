@@ -2,4 +2,5 @@
 .history
 # openconnect
 openconnect/config.*
+openconnect/_start.sh
 __pycache__
